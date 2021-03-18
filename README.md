@@ -50,7 +50,6 @@ System.out.println(2+2)
 7. Escreva o comando (ou sequencia) para realizar o commit de suas mudanças
 ```
 
-
 ```
 
 8. Volte para o branch `master` e mude B.java adicionando o seguinte código-fonte (confirme sua mudança para` master`):
